@@ -1,0 +1,6 @@
+pyuac
+python-pptx
+pytesseract
+python-docx
+PyPDF2
+pywin32
